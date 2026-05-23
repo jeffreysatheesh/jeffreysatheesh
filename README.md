@@ -10,7 +10,7 @@ Databases: MongoDB <br>
 Developer Tools: VS code, github <br>
 
 
-**“Learn to code, because it teaches you how to think.” — Steve Jobs**
+**“Learn to code, because it teaches you how to think.”**
 
 ## 📂 Projects
 - **Cystocare**: PCOD/PCOS Detection and Personalized Management System.
