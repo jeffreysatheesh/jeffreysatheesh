@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**jeffreysatheesh/jeffreysatheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Motivated Computer Science Engineer with hands-on experience in full-stack web development, UI/Ux Designing and building responsive web applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<big><B> Skills: </B> </big><br>
+Language: Java, JavaScript, c <br>
+Web Technologies: React.js, HTML, CSS <br>
+Databases: MongoDB <br>
+Developer Tools: VS code, github <br>
+
+
+**“Learn to code, because it teaches you how to think.” — Steve Jobs**
+
+## 📂 Projects
+- **Cystocare**: PCOD/PCOS Detection and Personalized Management System.
+- **SMART FARMING AND AUTOMATION SYSTEM**: An IoT-based smart farming system.
+- **Amazon Clone**: Using HTML, CSS, JavaScript.
+
+ More projects are in progress.
+
+## 📫 Contact Me
+- **Discord**: `dpr_mask`
+- **Email**: `jeffreysatheesh@gmail.com`
