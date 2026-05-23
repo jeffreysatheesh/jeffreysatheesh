@@ -4,7 +4,7 @@
 Motivated Computer Science Engineer with hands-on experience in full-stack web development, UI/Ux Designing and building responsive web applications. 
 
 <big><B> Skills: </B> </big><br>
-Language: Java, JavaScript, c <br>
+Language: Java, JavaScript, C <br>
 Web Technologies: React.js, HTML, CSS <br>
 Databases: MongoDB <br>
 Developer Tools: VS code, github <br>
