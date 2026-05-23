@@ -14,7 +14,7 @@ Developer Tools: VS code, github <br>
 
 ## 📂 Projects
 - **Cystocare**: PCOD/PCOS Detection and Personalized Management System.
-- **SMART FARMING AND AUTOMATION SYSTEM**: An IoT-based smart farming system.
+- **Smart Farming and Automation System**: An IoT-based smart farming system.
 - **Amazon Clone**: Using HTML, CSS, JavaScript.
 
  More projects are in progress.
